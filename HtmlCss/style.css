@@ -49,6 +49,11 @@ a:hover{
     overflow: auto;
     margin: 15px;
 }
+.image{
+    width: auto;
+    margin: 15px;
+    background-image: url();
+}
 a{
    text-decoration: none; 
 }
